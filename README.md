@@ -1,2 +1,2 @@
 # CompromiseMethod
-![result](https://github.com/user-attachments/assets/2a9c75e8-5e76-48ef-b0fc-1b6154207bb5)
+<img width="692" height="199" alt="image" src="https://github.com/user-attachments/assets/d18d7420-c0c4-44db-9009-cd89277c01ac" />
