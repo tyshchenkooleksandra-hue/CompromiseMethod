@@ -1,0 +1,22 @@
+{
+  "name": "schedule-api-tests",
+  "version": "1.0.0",
+  "description": "Automated API tests for Schedule application",
+  "scripts": {
+    "test": "jest --runInBand --forceExit",
+    "test:students": "jest tests/api/students.test.js --runInBand --forceExit",
+    "test:semesters": "jest tests/api/semesters.test.js --runInBand --forceExit"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.0",
+    "pg": "^8.11.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testTimeout": 30000
+  }
+}
